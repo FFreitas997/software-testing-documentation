@@ -20,6 +20,7 @@ Software testing is a fundamental discipline in software engineering. It ensures
 | 8 | [Security Testing](docs/08-security-testing.md) | OWASP Top 10, penetration testing, and secure SDLC |
 | 9 | [Best Practices](docs/09-best-practices.md) | Writing maintainable, reliable, and fast tests |
 | 10 | [Testing Tools](docs/10-testing-tools.md) | Popular frameworks and utilities across languages |
+| 11 | [Test Examples](docs/11-test-examples.md) | Practical code examples: Unit (Java), Integration (Java), Testcontainers, and E2E (Playwright) |
 
 ## Quick Start
 
