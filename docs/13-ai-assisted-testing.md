@@ -63,6 +63,7 @@ AI-assisted testing uses machine learning and large language models (LLMs) to su
 
 | Tool                                                      | Type           | Key Capability                                     |
 |-----------------------------------------------------------|----------------|----------------------------------------------------|
+| [Agent QA](https://github.com/vostride/agent-qa)          | CLI / MCP      | Natural-language web and mobile tests with self-healing execution |
 | [KaneAI (LambdaTest)](https://www.lambdatest.com/kane-ai) | Cloud platform | Natural language → Playwright / Selenium / Cypress |
 | [GitHub Copilot](https://github.com/features/copilot)     | IDE assistant  | Inline test generation from code context           |
 | [Diffblue Cover](https://www.diffblue.com/)               | Java-specific  | Auto-generates JUnit unit tests for Java code      |
@@ -546,4 +547,3 @@ class OrderControllerIntegrationTest {
 - [Playwright AI Testing Guide](https://playwright.dev/docs/codegen)
 - [GitHub Copilot for Tests](https://docs.github.com/en/copilot)
 - [Diffblue Cover — Java AI Testing](https://www.diffblue.com/products/cover/)
-
